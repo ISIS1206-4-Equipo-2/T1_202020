@@ -30,6 +30,7 @@ public class View
 		
 		public void printModelo(Modelo modelo)
 		{
+			// Implementar
 			String str = modelo.darDatos();
 			System.out.println(str);
 		}
